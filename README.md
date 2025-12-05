@@ -1,5 +1,6 @@
 ## Oi pessoa 👋
 -📚 Estudando atualmente:
+
 [![roadmap.sh](https://roadmap.sh/card/tall/683ca8e8d3156c8eaf64f5fb?variant=dark)](https://roadmap.sh)
 
 <!--
