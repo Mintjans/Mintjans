@@ -1,4 +1,6 @@
-## Hi there 👋
+## Oi pessoa 👋
+-📚 Estudando atualmente:
+[![roadmap.sh](https://roadmap.sh/card/tall/683ca8e8d3156c8eaf64f5fb?variant=dark)](https://roadmap.sh)
 
 <!--
 **Mintjans/Mintjans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
